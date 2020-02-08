@@ -1,0 +1,18 @@
+FJ848883 Lactococcus phage CB14 Viruses
+dsDNA viruses,no RNA stage
+Caudovirales
+Siphoviridae
+Skunalikevirus
+NC_001909 Lactococcus phage bIL170 Viruses 
+dsDNA viruses, no RNA stage; 
+Caudovirales; 
+Siphoviridae; 
+Skunalikevirus
+JQ740790 Lactococcus Phage ASCC284 Viruses; 
+dsDNA viruses, no RNA stage; 
+Caudovirales; Siphoviridae
+NC_008363 Lactococcus phage P008 Viruses; 
+dsDNA viruses, no RNA stage; 
+Caudovirales; 
+Siphoviridae; 
+Skunalikevirus
